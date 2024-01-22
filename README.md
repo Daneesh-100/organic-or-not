@@ -1,1 +1,2 @@
-sample code of Organic or Inorganic files
+# Organic-or-Inorganic
+All type of Organic or Inorganic files
